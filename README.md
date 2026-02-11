@@ -22,6 +22,8 @@ I recently engineered a production-grade PostgreSQL 17 cluster designed for maxi
 * **Highlights:** * Implemented 2+1 Quorum (Primary, Standby, Witness) to prevent split-brain.
   * Configured Synchronous Replication for RPO=0.
   * Automated recovery using pgbackrest Delta Restores.
+1. **[PostgreSQL HA Cluster](https://link-to-repo):** High-availability infrastructure with Patroni/etcd.
+2. **[Database Performance Lab](https://link-to-tuning-repo):** A collection of expert-level tuning scripts for SQL Server and PostgreSQL.
 
 
 
