@@ -30,8 +30,8 @@ I recently engineered a production-grade PostgreSQL 17 cluster designed for maxi
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical)
+![https://github-readme-stats.vercel.app/api?username=[musapeta-m]&show_icons=true&theme=radical
+![https://github-readme-stats.vercel.app/api/top-langs/?username=[musapeta-m]&layout=compact&theme=radical]
 
 ---
 
