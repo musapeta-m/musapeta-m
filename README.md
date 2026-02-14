@@ -23,7 +23,7 @@ I recently engineered a production-grade PostgreSQL 17 cluster designed for maxi
   * Configured Synchronous Replication for RPO=0.
   * Automated recovery using pgbackrest Delta Restores.
 1. **[https://github.com/musapeta-m/postgresql-ha-cluster]:** High-availability infrastructure with Patroni/etcd.
-2. **[Database Performance Lab](https://link-to-tuning-repo):** A collection of expert-level tuning scripts for SQL Server and PostgreSQL.
+2. **[https://github.com/musapeta-m/sql-performance-tuning-lab]:** A collection of expert-level tuning scripts for SQL Server and PostgreSQL.
 
 
 
