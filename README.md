@@ -36,5 +36,5 @@ I recently engineered a production-grade PostgreSQL 17 cluster designed for maxi
 ---
 
 ## 📫 Connect with me:
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* **Email:** [your-email@example.com]
+* **LinkedIn:** [www.linkedin.com/in/musapeta-m]
+* **Email:** [musapeta.m@gmail.com]
