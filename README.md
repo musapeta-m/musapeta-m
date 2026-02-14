@@ -18,11 +18,11 @@ I specialize in designing and managing mission-critical, high-availability datab
 ## 🚀 Featured Project: PostgreSQL HA 3-Node Cluster
 I recently engineered a production-grade PostgreSQL 17 cluster designed for maximum uptime and zero data loss.
 
-* **Project Link:** [PostgreSQL-HA-Patroni-etcd](https://github.com/your-username/postgresql-ha-cluster)
+* **Project Link:** [https://github.com/musapeta-m/postgresql-ha-cluster]
 * **Highlights:** * Implemented 2+1 Quorum (Primary, Standby, Witness) to prevent split-brain.
   * Configured Synchronous Replication for RPO=0.
   * Automated recovery using pgbackrest Delta Restores.
-1. **[PostgreSQL HA Cluster](https://link-to-repo):** High-availability infrastructure with Patroni/etcd.
+1. **[https://github.com/musapeta-m/postgresql-ha-cluster]:** High-availability infrastructure with Patroni/etcd.
 2. **[Database Performance Lab](https://link-to-tuning-repo):** A collection of expert-level tuning scripts for SQL Server and PostgreSQL.
 
 
